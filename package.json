@@ -6,14 +6,17 @@
     "build": "vite build",
     "serve": "vite preview",
     "proto:json": "pbjs -t json src/proto/*.proto > src/proto/proto.json",
-    "proto": "pbjs -t json-module -w commonjs -o src/proto/proto.js  src/proto/Message.proto",
+    "proto": "pbjs -t json-module -w commonjs -o src/proto/protoNode.js  src/proto/Message.proto",
     "protots": "pbts -o src/proto/proto.d.ts src/proto/proto.js"
   },
   "dependencies": {
     "ant-design-vue": "^2.1.6",
+    "dayjs": "^1.10.4",
     "less": "^4.1.1",
+    "nodejs-websocket": "^1.7.2",
     "protobufjs": "^6.11.2",
-    "vue": "^3.0.5"
+    "vue": "^3.0.5",
+    "websocket-heartbeat-js": "^1.0.13"
   },
   "devDependencies": {
     "@vitejs/plugin-vue": "^1.2.2",

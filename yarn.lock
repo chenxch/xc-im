@@ -305,6 +305,11 @@ csstype@^2.6.8:
   resolved "https://registry.nlark.com/csstype/download/csstype-2.6.17.tgz?cache=0&sync_timestamp=1618818466657&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fcsstype%2Fdownload%2Fcsstype-2.6.17.tgz#4cf30eb87e1d1a005d8b6510f95292413f6a1c0e"
   integrity sha1-TPMOuH4dGgBdi2UQ+VKSQT9qHA4=
 
+dayjs@^1.10.4:
+  version "1.10.4"
+  resolved "https://registry.nlark.com/dayjs/download/dayjs-1.10.4.tgz#8e544a9b8683f61783f570980a8a80eaf54ab1e2"
+  integrity sha1-jlRKm4aD9heD9XCYCoqA6vVKseI=
+
 debug@^3.2.6:
   version "3.2.7"
   resolved "https://registry.npm.taobao.org/debug/download/debug-3.2.7.tgz?cache=0&sync_timestamp=1607566533140&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdebug%2Fdownload%2Fdebug-3.2.7.tgz#72580b7e9145fb39b6676f9c5e5fb100b934179a"
@@ -550,6 +555,11 @@ needle@^2.5.2:
     iconv-lite "^0.4.4"
     sax "^1.2.4"
 
+nodejs-websocket@^1.7.2:
+  version "1.7.2"
+  resolved "https://registry.npm.taobao.org/nodejs-websocket/download/nodejs-websocket-1.7.2.tgz#94abd1e248f57d4d1c663dec3831015c6dad98a6"
+  integrity sha1-lKvR4kj1fU0cZj3sODEBXG2tmKY=
+
 omit.js@^2.0.0:
   version "2.0.2"
   resolved "https://registry.npm.taobao.org/omit.js/download/omit.js-2.0.2.tgz#dd9b8436fab947a5f3ff214cb2538631e313ec2f"
@@ -774,6 +784,11 @@ warning@^4.0.0:
   integrity sha1-Fungd+uKhtavfWSqHgX9hbRnjKM=
   dependencies:
     loose-envify "^1.0.0"
+
+websocket-heartbeat-js@^1.0.13:
+  version "1.0.13"
+  resolved "https://registry.npm.taobao.org/websocket-heartbeat-js/download/websocket-heartbeat-js-1.0.13.tgz#0393f0e25f5614f98232748970d518e9e3bc0704"
+  integrity sha1-A5Pw4l9WFPmCMnSJcNUY6eO8BwQ=
 
 yallist@^3.0.2:
   version "3.1.1"
